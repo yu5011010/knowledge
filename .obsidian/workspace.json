@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Codeのセットアップ.md",
+                "file": "2026-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Codeのセットアップ"
+              "title": "2026-02-21"
             }
           }
         ],
@@ -220,7 +220,8 @@
   },
   "active": "1d02bf96f97bcb92",
   "lastOpenFiles": [
-    "README.md",
-    "Claude Codeのセットアップ.md"
+    "Claude Codeのセットアップ.md",
+    "2026-02-21.md",
+    "README.md"
   ]
 }
