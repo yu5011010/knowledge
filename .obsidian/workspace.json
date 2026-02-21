@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-02-21"
             }
+          },
+          {
+            "id": "9cd3eb331dd46376",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-21 18.45.48.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +230,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d02bf96f97bcb92",
+  "active": "9cd3eb331dd46376",
   "lastOpenFiles": [
-    "Claude Codeのセットアップ.md",
     "2026-02-21.md",
+    "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
+    "Excalidraw",
+    "Claude Codeのセットアップ.md",
     "README.md"
   ]
 }
