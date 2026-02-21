@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ijfjiojdiofio.md",
+                "file": "Claude Codeのセットアップ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ijfjiojdiofio"
+              "title": "Claude Codeのセットアップ"
             }
           }
         ],
@@ -248,10 +248,10 @@
   },
   "active": "643bb3ee6c631228",
   "lastOpenFiles": [
-    "2026-02-21.md",
     "ijfjiojdiofio.md",
-    "Claude Codeのセットアップ.md",
     "README.md",
+    "2026-02-21.md",
+    "Claude Codeのセットアップ.md",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "Excalidraw"
   ]
