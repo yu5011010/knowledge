@@ -53,21 +53,14 @@
             "id": "643bb3ee6c631228",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "claude codeのセットアップ 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "tasks"
+              "icon": "lucide-file",
+              "title": "claude codeのセットアップ 1"
             }
           }
         ],
@@ -256,14 +249,15 @@
   },
   "active": "643bb3ee6c631228",
   "lastOpenFiles": [
-    "README.md",
     "tasks.md",
+    "claude codeのセットアップ 1.md",
+    "ijfjiojdiofio.md",
+    "README.md",
     "Claude Codeのセットアップ.md",
     "2026-02-21.md",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "2026-02-28.md",
     "Untitled Kanban.md",
-    "ijfjiojdiofio.md",
     "kanban.md",
     "tasks",
     "tasks/やりたい.md",
