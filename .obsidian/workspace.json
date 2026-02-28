@@ -55,14 +55,19 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "kanban.md",
+                "file": "task.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": []
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "kanban"
+              "title": "task"
             }
           }
         ],
@@ -251,10 +256,11 @@
   },
   "active": "9f17ef25fd35f570",
   "lastOpenFiles": [
-    "kanban 1.md",
+    "task.md",
+    "ijfjiojdiofio.md",
+    "kanban.md",
     "tasks.md",
     "Untitled Kanban.md",
-    "kanban.md",
     "tasks",
     "tasks/やりたい.md",
     "tasks/やろう.md",
@@ -263,7 +269,6 @@
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "2026-02-21.md",
     "Claude Codeのセットアップ.md",
-    "ijfjiojdiofio.md",
     "README.md",
     "Excalidraw"
   ]
