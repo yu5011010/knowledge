@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## 
 
+- [ ] 自フォds
 
 
 ## 
