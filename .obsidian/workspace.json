@@ -55,7 +55,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "tasks.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "tasks"
             }
           }
         ],
@@ -253,10 +253,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "643bb3ee6c631228",
+  "active": "9f17ef25fd35f570",
   "lastOpenFiles": [
     "2026-02-28.md",
-    "Untitled Kanban.md",
+    "tasks.md",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "2026-02-21.md",
     "Claude Codeのセットアップ.md",
