@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/README.md",
+                "file": "2026-02-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-02-28"
             }
           }
         ],
@@ -267,14 +267,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f17ef25fd35f570",
+  "active": "643bb3ee6c631228",
   "lastOpenFiles": [
+    "daily/README.md",
+    "2026-02-28.md",
+    "projects/README.md",
     "notes/README.md",
     "tasks.md",
-    "daily/README.md",
     "daily",
     "notes",
-    "projects/README.md",
     "projects",
     "daily.md",
     "notes.md",
@@ -288,7 +289,6 @@
     "買い物.md",
     "いjぢおf",
     "Claude Codeのセットアップ.md",
-    "2026-02-28.md",
     "Untitled Kanban.md",
     "kanban.md",
     "tasks",
