@@ -53,20 +53,14 @@
             "id": "643bb3ee6c631228",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": "tasks/絶対.md",
+                "bFile": "tasks/絶対.md",
+                "aRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "tasks"
+              "icon": "diff",
+              "title": "Diff: 絶対  (Working Tree)"
             }
           }
         ],
@@ -253,14 +247,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "643bb3ee6c631228",
+  "active": "fbcf55d03a464294",
   "lastOpenFiles": [
+    "tasks.md",
+    "2026-02-28.md",
     "tasks/やりたい.md",
     "tasks/やろう.md",
     "tasks/絶対.md",
     "tasks",
-    "2026-02-28.md",
-    "tasks.md",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "2026-02-21.md",
     "Claude Codeのセットアップ.md",
