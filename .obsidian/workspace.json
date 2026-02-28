@@ -53,12 +53,14 @@
             "id": "643bb3ee6c631228",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md"
+                "file": "2026-02-28.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-21 18.45.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-02-28"
             }
           }
         ],
@@ -247,6 +249,7 @@
   "active": "643bb3ee6c631228",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
+    "2026-02-28.md",
     "2026-02-21.md",
     "Claude Codeのセットアップ.md",
     "ijfjiojdiofio.md",
