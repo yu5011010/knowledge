@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "クラスカー.md",
+                "file": "買い物.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラスカー"
+              "title": "買い物"
+            }
+          },
+          {
+            "id": "c87ede3705ead5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "沖縄.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "沖縄"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,12 +276,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4180f3e29954f04c",
+  "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "クリスタルヴィラ南城.md",
     "クラスカー.md",
-    "tasks.md",
+    "沖縄.md",
+    "クリスタルヴィラ南城.md",
     "買い物.md",
+    "tasks.md",
     "2026-02-28.md",
     "daily/README.md",
     "projects/README.md",
