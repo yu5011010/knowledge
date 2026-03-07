@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/42.md",
+                "file": "projects/RVSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42"
+              "title": "RVSS"
             }
           }
         ],
@@ -278,13 +278,15 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
+    "projects/RVSS/人事DB.md",
     "projects/42.md",
+    "projects/RVSS.md",
+    "projects/RVSS",
+    "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "projects/README.md",
     "tasks.md",
     "クラスカー.md",
     "projects/慶應.md",
-    "projects/RVSS.md",
     "projects/インターン.md",
     "沖縄.md",
     "クリスタルヴィラ南城.md",
@@ -308,7 +310,6 @@
     "Untitled Kanban.md",
     "kanban.md",
     "tasks",
-    "tasks/やりたい.md",
     "Excalidraw"
   ]
 }
