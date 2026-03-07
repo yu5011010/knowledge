@@ -4,14 +4,12 @@
 
 ```dataview
 TASK
-FROM #RVSS
-WHERE !completed
+WHERE contains(tags, "RVSS") AND !completed
 ```
 
 ## 完了済みタスク
 
 ```dataview
 TASK
-FROM #RVSS
-WHERE completed
+WHERE contains(tags, "RVSS") AND completed
 ```
