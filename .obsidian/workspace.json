@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/RVSS/tasks.md",
+                "file": "projects/42.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "42"
             }
           }
         ],
@@ -278,8 +278,8 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "projects/RVSS/人事DB.md",
     "projects/RVSS/tasks.md",
+    "projects/RVSS/人事DB.md",
     "projects/42.md",
     "projects/RVSS",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
