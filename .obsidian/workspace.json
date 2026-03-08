@@ -81,21 +81,14 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "projects/42/get_next_line/get_next_line.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "tasks"
+              "icon": "lucide-file",
+              "title": "get_next_line"
             }
           }
         ],
@@ -285,8 +278,9 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "projects/42/tasks.md",
     "tasks.md",
+    "projects/42/get_next_line/get_next_line.md",
+    "projects/42/tasks.md",
     "projects/42/get_next_line",
     "projects/42",
     "projects/RVSS/tasks.md",

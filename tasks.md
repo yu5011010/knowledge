@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## 🔴 絶対
 
-- [ ] get_next_line作成 📅 2026-03-07 #42
+- [ ] get_next_line作成 📅 2026-03-07 #42 [[projects/42/get_next_line/get_next_line]]
 - [ ] 夜ご飯を作る 🕕 18:00 📅 2026-03-07
 
 
