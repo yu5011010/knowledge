@@ -81,13 +81,20 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "projects/42/tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "tasks"
             }
           }
@@ -276,17 +283,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f17ef25fd35f570",
+  "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
+    "projects/42/tasks.md",
+    "tasks.md",
     "projects/42/get_next_line",
     "projects/42",
     "projects/RVSS/tasks.md",
     "projects/RVSS/人事DB.md",
-    "projects/42/tasks.md",
     "projects/RVSS",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "projects/README.md",
-    "tasks.md",
     "クラスカー.md",
     "projects/慶應.md",
     "projects/インターン.md",
