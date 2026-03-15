@@ -13,6 +13,8 @@ kanban-plugin: board
 
 ## 🟡 やろう
 
+- [ ] RVSSスクール進捗確認 🔁 every week on Tuesday 📅 2026-03-17 #RVSS
+
 - [ ] obsidianの整備
 - [ ] printf作成 #42
 - [ ] Born2beroot作成 #42
