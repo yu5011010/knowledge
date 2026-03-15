@@ -15,6 +15,7 @@ kanban-plugin: board
 
 - [ ] RVSSスクール進捗確認 🔁 every week on Tuesday 📅 2026-03-17 #RVSS
 - [ ] プロトタイプ作成 📅 2026-03-16 #RVSS
+- [ ] Slackの管理権限を申請する 📅 2026-03-17 #RVSS
 
 - [ ] obsidianの整備
 - [ ] printf作成 #42
