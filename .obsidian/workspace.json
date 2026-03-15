@@ -81,21 +81,14 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "projects/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "tasks"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -283,19 +276,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c87ede3705ead5e1",
+  "active": "9f17ef25fd35f570",
   "lastOpenFiles": [
+    "projects/RVSS/人事DB.md",
+    "projects/RVSS/tasks.md",
+    "notes/README.md",
+    "daily/README.md",
+    "tasks.md",
     "projects/42/get_next_line.c",
     "projects/42/get_next_line,c",
     "projects/42/get_next_line/get_next_line.md",
     "projects/42/en.subject.txt",
     "projects/42/en.subjectのコピー.pdf",
-    "tasks.md",
     "projects/42/tasks.md",
     "projects/42/get_next_line",
     "projects/42",
-    "projects/RVSS/tasks.md",
-    "projects/RVSS/人事DB.md",
     "projects/RVSS",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "projects/README.md",
@@ -306,8 +301,6 @@
     "クリスタルヴィラ南城.md",
     "買い物.md",
     "2026-02-28.md",
-    "daily/README.md",
-    "notes/README.md",
     "daily",
     "notes",
     "projects",
@@ -319,7 +312,6 @@
     "claude codeのセットアップ 1.md",
     "いjぢおf/自フォds.md",
     "2026-02-21.md",
-    "いjぢおf",
     "Claude Codeのセットアップ.md"
   ]
 }
