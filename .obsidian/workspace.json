@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/慶應/慶應.md",
+                "file": "projects/RVSS/tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "慶應"
+              "title": "tasks"
             }
           }
         ],
@@ -276,12 +276,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f17ef25fd35f570",
+  "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "projects/RVSS/tasks.md",
-    "projects/慶應/慶應.md",
-    "projects/慶應",
     "projects/RVSS/人事DB.md",
+    "projects/慶應/慶應.md",
+    "projects/RVSS/tasks.md",
+    "projects/慶應",
     "projects/README.md",
     "projects/インターン.md",
     "projects/慶應.md",
