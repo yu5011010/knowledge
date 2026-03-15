@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "claude codeのセットアップ 1.md",
+                "file": "daily/2026-03-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude codeのセットアップ 1"
+              "title": "2026-03-16"
             }
           }
         ],
@@ -278,10 +278,11 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "Claude Codeのセットアップ.md",
-    "claude codeのセットアップ 1.md",
-    "projects/RVSS/tasks.md",
     "tasks.md",
+    "README.md",
+    "claude codeのセットアップ 1.md",
+    "Claude Codeのセットアップ.md",
+    "projects/RVSS/tasks.md",
     "daily/2026-03-16.md",
     "daily/README.md",
     "templates/daily.md",
@@ -311,7 +312,6 @@
     "daily.md",
     "notes.md",
     "projects.md",
-    "README.md",
     "ijfjiojdiofio.md",
     "いjぢおf/自フォds.md"
   ]

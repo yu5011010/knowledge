@@ -8,6 +8,7 @@ tags: [daily]
 ## 今日のタスク
 
 ```tasks
+path includes tasks
 due on {{date:YYYY-MM-DD}}
 not done
 ```
@@ -15,6 +16,7 @@ not done
 ## 未完了タスク（期限なし）
 
 ```tasks
+path includes tasks
 no due date
 not done
 ```
