@@ -81,20 +81,13 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "projects/RVSS/tasks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
+              "icon": "lucide-file",
               "title": "tasks"
             }
           }
@@ -283,20 +276,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f17ef25fd35f570",
+  "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
-    "projects/42/tasks.md",
+    "projects/RVSS/人事DB.md",
+    "projects/README.md",
+    "projects/RVSS/tasks.md",
+    "projects/インターン.md",
+    "projects/慶應.md",
     "tasks.md",
+    "projects/42/tasks.md",
     "daily/2026-03-16.md",
     "README.md",
     "claude codeのセットアップ 1.md",
     "Claude Codeのセットアップ.md",
-    "projects/RVSS/tasks.md",
     "daily/README.md",
     "templates/daily.md",
     "templates",
-    "projects/RVSS/人事DB.md",
-    "projects/README.md",
     "notes/README.md",
     "projects/42/get_next_line.c",
     "projects/42/get_next_line,c",
@@ -308,8 +303,6 @@
     "projects/RVSS",
     "Excalidraw/Drawing 2026-02-21 18.45.48.excalidraw.md",
     "クラスカー.md",
-    "projects/慶應.md",
-    "projects/インターン.md",
     "沖縄.md",
     "クリスタルヴィラ南城.md",
     "買い物.md",

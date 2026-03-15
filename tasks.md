@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## 🔴 絶対
 
-- [ ] 慶應の入学資料の送付 📅 2026-03-18
+- [ ] 慶應の入学資料の送付 📅 2026-03-18 #慶應
 - [ ] get_next_line作成 #42 [[projects/42/get_next_line/get_next_line]]
 - [ ] 夜ご飯を作る 🕕 18:00
 
