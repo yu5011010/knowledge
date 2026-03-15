@@ -81,13 +81,20 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "projects/RVSS/tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "tasks"
             }
           }
@@ -278,16 +285,16 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
+    "daily/2026-03-16.md",
+    "projects/RVSS/tasks.md",
     "projects/RVSS/人事DB.md",
     "projects/慶應/慶應.md",
-    "projects/RVSS/tasks.md",
     "projects/慶應",
     "projects/README.md",
     "projects/インターン.md",
     "projects/慶應.md",
     "tasks.md",
     "projects/42/tasks.md",
-    "daily/2026-03-16.md",
     "README.md",
     "claude codeのセットアップ 1.md",
     "Claude Codeのセットアップ.md",
