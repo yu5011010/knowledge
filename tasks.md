@@ -12,6 +12,7 @@ kanban-plugin: board
 
 ## 🟡 やろう
 
+- [ ] obsidianの整備 📅 2026-03-16
 - [ ] printf作成 📅 2026-03-07 #42
 - [ ] Born2beroot作成 📅 2026-03-07 #42
 
