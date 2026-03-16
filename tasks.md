@@ -13,6 +13,7 @@ kanban-plugin: board
 
 ## 🟡 やろう
 
+- [ ] 人事部データ管理ヒアリング（欲しいデータ確認＋既存スプシ棚卸し） #RVSS
 - [ ] スクールの現状把握 #RVSS
 - [ ] 情シスのタスク分解 #RVSS
 - [ ] RVSSスクール進捗確認 🔁 every week on Tuesday 📅 2026-03-17 #RVSS
