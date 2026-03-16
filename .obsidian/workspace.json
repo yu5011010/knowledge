@@ -81,21 +81,14 @@
             "id": "c87ede3705ead5e1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "projects/インターン.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "tasks"
+              "icon": "lucide-file",
+              "title": "インターン"
             }
           }
         ],
@@ -285,11 +278,11 @@
   },
   "active": "c87ede3705ead5e1",
   "lastOpenFiles": [
+    "tasks.md",
     "projects/RVSS/人事DB.md",
     "projects/RVSS/tasks.md",
     "daily/2026-03-16.md",
     "projects/42/tasks.md",
-    "tasks.md",
     "projects/慶應/慶應.md",
     "projects/慶應",
     "projects/README.md",
