@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/README.md",
+                "file": "projects/RVSS/tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "tasks"
             }
           }
         ],
@@ -278,15 +278,15 @@
   },
   "active": "9f17ef25fd35f570",
   "lastOpenFiles": [
-    "intern/インターン.md",
     "projects/README.md",
+    "projects/インターン.md",
+    "projects/intern/インターン.md",
     "projects/慶應/慶應.md",
     "projects/42/en.subjectのコピー.pdf",
     "projects/42/tasks.md",
     "daily/README.md",
     "projects/RVSS/tasks.md",
-    "intern",
-    "projects/インターン.md",
+    "projects/intern",
     "tasks.md",
     "projects/RVSS/人事DB.md",
     "daily/2026-03-16.md",
